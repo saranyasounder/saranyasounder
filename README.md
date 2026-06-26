@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Saranya Sounder Rajan</h1>
+<h1 align="left">👋, I'm Saranya Sounder Rajan</h1>
 <h3 align="left">CS Student @ Oregon State · AI & Software Engineering · Class of 2027</h3>
 
 <br/>
